@@ -49,12 +49,67 @@
     {
       "@type": "ContactPage",
       "name": "Hubungi Kami",
-      "url": "https://t.me/Xyla_Sabena"
+      "url": "https://www.hanhaoyu.com/p/contact-me.html"
     },
     {
-      "@type": "ContactPage",
-      "name": "List Judul",
-      "url": "https://www.equalsecrets-yaoi.my.id/p/list-judul.html"
+      "@type": "WebPage",
+      "name": "List Judul Komik",
+      "url": "https://www.hanhaoyu.com/p/list-judul-komik.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Partnership",
+      "url": "https://www.hanhaoyu.com/p/partnership.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "My Project",
+      "url": "https://www.hanhaoyu.com/p/my-project.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Course",
+      "url": "https://www.hanhaoyu.com/p/course.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Sitemap",
+      "url": "https://www.hanhaoyu.com/p/sitemap.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "About Me",
+      "url": "https://www.hanhaoyu.com/p/about-me.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Useful Tool",
+      "url": "https://www.hanhaoyu.com/p/useful-tool.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "History Claim Voucher",
+      "url": "https://www.hanhaoyu.com/p/history-claim-voucher.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Claim Voucher",
+      "url": "https://www.hanhaoyu.com/p/claim-voucher.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Buy Coin",
+      "url": "https://www.hanhaoyu.com/p/buy-coin.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Riwayat Coin",
+      "url": "https://www.hanhaoyu.com/p/riwayat-coin.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Reset Password",
+      "url": "https://www.hanhaoyu.com/p/reset-password.html"
     }
   ],
   "headline": "3 Highlight Artikel",
@@ -62,17 +117,17 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "url": "https://www.hanhaoyu.com/artikel-1.html"
+      "url": "https://www.hanhaoyu.com/typography-and-codes.html"
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "url": "https://www.hanhaoyu.com/artikel-2.html"
+      "url": "https://www.hanhaoyu.com/p/fitur.html"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "url": "https://www.hanhaoyu.com/artikel-3.html"
+      "url": "https://www.hanhaoyu.com/search?q="
     }
   ],
   "upcomingEvent": {
