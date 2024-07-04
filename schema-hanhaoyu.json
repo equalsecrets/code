@@ -15,10 +15,10 @@
     ]
   },
   "sameAs": [
-    "https://www.facebook.com/your-facebook-profile",
-    "https://twitter.com/your-twitter-handle",
-    "https://www.linkedin.com/in/your-linkedin-profile",
-    "https://www.instagram.com/your-instagram-handle"
+    "https://www.facebook.com/profile.php?id=100012042429356",
+    "https://twitter.com/han_haoyu_",
+    "https://www.linkedin.com/in/hanhaoyu",
+    "https://www.instagram.com/han_haoyu_"
   ],
   "mainEntity": [
     {
@@ -201,21 +201,21 @@
   ],
   "organization": {
     "@type": "Organization",
-    "name": "Nama Organisasi",
-    "url": "https://www.equalsecrets-yaoi.my.id",
-    "logo": "https://www.equalsecrets-yaoi.my.id/logo.png",
-    "description": "Deskripsi singkat tentang organisasi.",
+    "name": "HaoTalk Community",
+    "url": "https://haotalk.hanhaoyu.com",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgeMRJPoFtNY5el7fpkdYgDpO053HqnjCUaRJTMR289zdxZ4VZybsPQtkW0gEZCQs7i43fhqpzOtPjP3Nh4N4YAx0ezcrc6Lta5teX0wc_k1Wc2uXALuzU4IrbNq29J2z5BnnqIVgfGCcqew-xPVrefGwV6WmaByCPEC5uMR92nFzq6aulZmfgon7p04wmM=s1600",
+    "description": "HaoTalk adalah komunitas berbagi informasi dan pengetahuan yang dibentuk untuk memberikan wadah bagi semua kalangan termasuk para pembelajar, penggiat startup, dan para profesional dalam semua bidang untuk saling bertukar informasi, pengalaman, dan pemikiran.",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+1-123-456-7890",
+      "telephone": "+6283871701646",
       "contactType": "Customer Service",
       "areaServed": "ID",
       "availableLanguage": "Indonesian, English"
     },
     "sameAs": [
-      "https://www.facebook.com/your-facebook-profile",
-      "https://twitter.com/your-twitter-handle",
-      "https://www.linkedin.com/in/your-linkedin-profile"
+      "https://www.facebook.com/",
+      "https://twitter.com/haotalk",
+      "https://www.linkedin.com/in/haotalk"
     ]
   },
   "founder": {
@@ -223,9 +223,10 @@
     "name": "Nama Founder",
     "url": "https://www.equalsecrets-yaoi.my.id/nama-founder.html",
     "sameAs": [
-      "https://www.facebook.com/your-founder-profile",
-      "https://twitter.com/your-founder-handle",
-      "https://www.linkedin.com/in/your-founder-profile"
+      "https://www.facebook.com/profile.php?id=100012042429356",
+    "https://twitter.com/han_haoyu_",
+    "https://www.linkedin.com/in/hanhaoyu",
+    "https://www.instagram.com/han_haoyu_"
     ],
     "description": "Deskripsi singkat tentang founder."
   }
