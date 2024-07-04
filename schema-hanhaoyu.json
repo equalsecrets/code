@@ -24,27 +24,27 @@
     {
       "@type": "WebPage",
       "name": "Profil",
-      "url": "https://www.equalsecrets-yaoi.my.id/p/profile.html"
+      "url": "https://www.hanhaoyu.com/p/profile.html"
     },
     {
       "@type": "WebPage",
       "name": "Login",
-      "url": "https://www.equalsecrets-yaoi.my.id/p/login.html"
+      "url": "https://www.hanhaoyu.com/p/login.html"
     },
     {
       "@type": "WebPage",
       "name": "Register",
-      "url": "https://www.equalsecrets-yaoi.my.id/p/register.html"
+      "url": "https://www.hanhaoyu.com/p/register.html"
     },
     {
       "@type": "WebPage",
       "name": "Informasi Layanan",
-      "url": "https://www.equalsecrets-yaoi.my.id/p/layanan-tambahan.html"
+      "url": "https://www.hanhaoyu.com/p/layanan-tambahan.html"
     },
     {
       "@type": "WebPage",
-      "name": "Promo Join VIP",
-      "url": "https://www.equalsecrets-yaoi.my.id/p/promo-join-vip.html"
+      "name": "Promo Paket Premium",
+      "url": "https://www.hanhaoyu.com/p/promo-premium.html"
     },
     {
       "@type": "ContactPage",
@@ -62,17 +62,17 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "url": "https://www.equalsecrets-yaoi.my.id/artikel-1.html"
+      "url": "https://www.hanhaoyu.com/artikel-1.html"
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "url": "https://www.equalsecrets-yaoi.my.id/artikel-2.html"
+      "url": "https://www.hanhaoyu.com/artikel-2.html"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "url": "https://www.equalsecrets-yaoi.my.id/artikel-3.html"
+      "url": "https://www.hanhaoyu.com/artikel-3.html"
     }
   ],
   "upcomingEvent": {
@@ -98,22 +98,22 @@
     {
       "@type": "Product",
       "name": "Nama Produk 1",
-      "url": "https://www.equalsecrets-yaoi.my.id/produk-1.html",
-      "image": "https://www.equalsecrets-yaoi.my.id/images/produk-1.jpg",
+      "url": "https://www.hanhaoyu.com/produk-1.html",
+      "image": "https://www.hanhaoyu.com/images/produk-1.jpg",
       "description": "Deskripsi singkat tentang Produk 1."
     },
     {
       "@type": "Product",
       "name": "Nama Produk 2",
-      "url": "https://www.equalsecrets-yaoi.my.id/produk-2.html",
-      "image": "https://www.equalsecrets-yaoi.my.id/images/produk-2.jpg",
+      "url": "https://www.hanhaoyu.com/produk-2.html",
+      "image": "https://www.hanhaoyu.com/images/produk-2.jpg",
       "description": "Deskripsi singkat tentang Produk 2."
     },
     {
       "@type": "Product",
       "name": "Nama Produk 3",
-      "url": "https://www.equalsecrets-yaoi.my.id/produk-3.html",
-      "image": "https://www.equalsecrets-yaoi.my.id/images/produk-3.jpg",
+      "url": "https://www.hanhaoyu.com/produk-3.html",
+      "image": "https://www.hanhaoyu.com/images/produk-3.jpg",
       "description": "Deskripsi singkat tentang Produk 3."
     }
   ],
@@ -207,7 +207,7 @@
     "description": "HaoTalk adalah komunitas berbagi informasi dan pengetahuan yang dibentuk untuk memberikan wadah bagi semua kalangan termasuk para pembelajar, penggiat startup, dan para profesional dalam semua bidang untuk saling bertukar informasi, pengalaman, dan pemikiran.",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+6283871701646",
+      "telephone": "+6285159545449",
       "contactType": "Customer Service",
       "areaServed": "ID",
       "availableLanguage": "Indonesian, English"
@@ -215,19 +215,20 @@
     "sameAs": [
       "https://www.facebook.com/",
       "https://twitter.com/haotalk",
-      "https://www.linkedin.com/in/haotalk"
+      "https://www.linkedin.com/in/haotalk",
+      "https://www.instagram.com/haotalk"
     ]
   },
   "founder": {
     "@type": "Person",
-    "name": "Nama Founder",
-    "url": "https://www.equalsecrets-yaoi.my.id/nama-founder.html",
+    "name": "Han Haoyu - Muhammad Hayyu Hani Nuril",
+    "url": "https://www.hanhaoyu,com/p/about-me.html",
     "sameAs": [
       "https://www.facebook.com/profile.php?id=100012042429356",
-    "https://twitter.com/han_haoyu_",
-    "https://www.linkedin.com/in/hanhaoyu",
-    "https://www.instagram.com/han_haoyu_"
+      "https://twitter.com/han_haoyu_",
+      "https://www.linkedin.com/in/hanhaoyu",
+      "https://www.instagram.com/han_haoyu_"
     ],
-    "description": "Deskripsi singkat tentang founder."
+    "description": "Situs web ini adalah platform di mana saya berbagi wawasan, pandangan, dan pengetahuan tentang kehidupan, kesuksesan, serta bagaimana menjelajahi potensi tanpa batas dalam segala aspek kehidupan. Saya percaya bahwa setiap individu memiliki potensi yang unik dan luar biasa, dan melalui situs web ini, saya ingin menginspirasi dan memberdayakan orang lain untuk menemukan dan meraih potensi terbaik mereka."
   }
 }
