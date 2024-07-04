@@ -1,0 +1,235 @@
+<b:comment><!--[ Sitelinks Search Box ]--></b:comment>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "<data:blog.homepageUrl/>",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "<data:blog.searchUrl/>?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+    ]
+  },
+  "sameAs": [
+    "https://www.facebook.com/your-facebook-profile",
+    "https://twitter.com/your-twitter-handle",
+    "https://www.linkedin.com/in/your-linkedin-profile",
+    "https://www.instagram.com/your-instagram-handle"
+  ],
+  "mainEntity": [
+    {
+      "@type": "WebPage",
+      "name": "Profil",
+      "url": "https://www.equalsecrets-yaoi.my.id/p/profile.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Login",
+      "url": "https://www.equalsecrets-yaoi.my.id/p/login.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Register",
+      "url": "https://www.equalsecrets-yaoi.my.id/p/register.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Informasi Layanan",
+      "url": "https://www.equalsecrets-yaoi.my.id/p/layanan-tambahan.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Promo Join VIP",
+      "url": "https://www.equalsecrets-yaoi.my.id/p/promo-join-vip.html"
+    },
+    {
+      "@type": "ContactPage",
+      "name": "Hubungi Kami",
+      "url": "https://t.me/Xyla_Sabena"
+    },
+    {
+      "@type": "ContactPage",
+      "name": "List Judul",
+      "url": "https://www.equalsecrets-yaoi.my.id/p/list-judul.html"
+    }
+  ],
+  "headline": "3 Highlight Artikel",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "url": "https://www.equalsecrets-yaoi.my.id/artikel-1.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "url": "https://www.equalsecrets-yaoi.my.id/artikel-2.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "url": "https://www.equalsecrets-yaoi.my.id/artikel-3.html"
+    }
+  ],
+  "upcomingEvent": {
+    "@type": "Event",
+    "name": "Nama Event",
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-03",
+    "location": {
+      "@type": "Place",
+      "name": "Nama Lokasi",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Alamat Event",
+        "addressLocality": "Kota",
+        "addressRegion": "Provinsi",
+        "postalCode": "Kode Pos",
+        "addressCountry": "Negara"
+      }
+    },
+    "description": "Deskripsi singkat tentang event yang akan datang."
+  },
+  "highlightProduct": [
+    {
+      "@type": "Product",
+      "name": "Nama Produk 1",
+      "url": "https://www.equalsecrets-yaoi.my.id/produk-1.html",
+      "image": "https://www.equalsecrets-yaoi.my.id/images/produk-1.jpg",
+      "description": "Deskripsi singkat tentang Produk 1."
+    },
+    {
+      "@type": "Product",
+      "name": "Nama Produk 2",
+      "url": "https://www.equalsecrets-yaoi.my.id/produk-2.html",
+      "image": "https://www.equalsecrets-yaoi.my.id/images/produk-2.jpg",
+      "description": "Deskripsi singkat tentang Produk 2."
+    },
+    {
+      "@type": "Product",
+      "name": "Nama Produk 3",
+      "url": "https://www.equalsecrets-yaoi.my.id/produk-3.html",
+      "image": "https://www.equalsecrets-yaoi.my.id/images/produk-3.jpg",
+      "description": "Deskripsi singkat tentang Produk 3."
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 1?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 1."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 2?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 2."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 3?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 3."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 4?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 4."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 5?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 5."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 6?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 6."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 7."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 8?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 8."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 9?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 9."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pertanyaan 10?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jawaban untuk pertanyaan 10."
+      }
+    }
+  ],
+  "organization": {
+    "@type": "Organization",
+    "name": "Nama Organisasi",
+    "url": "https://www.equalsecrets-yaoi.my.id",
+    "logo": "https://www.equalsecrets-yaoi.my.id/logo.png",
+    "description": "Deskripsi singkat tentang organisasi.",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+1-123-456-7890",
+      "contactType": "Customer Service",
+      "areaServed": "ID",
+      "availableLanguage": "Indonesian, English"
+    },
+    "sameAs": [
+      "https://www.facebook.com/your-facebook-profile",
+      "https://twitter.com/your-twitter-handle",
+      "https://www.linkedin.com/in/your-linkedin-profile"
+    ]
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Nama Founder",
+    "url": "https://www.equalsecrets-yaoi.my.id/nama-founder.html",
+    "sameAs": [
+      "https://www.facebook.com/your-founder-profile",
+      "https://twitter.com/your-founder-handle",
+      "https://www.linkedin.com/in/your-founder-profile"
+    ],
+    "description": "Deskripsi singkat tentang founder."
+  }
+}
+</script>
